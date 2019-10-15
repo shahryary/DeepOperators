@@ -39,6 +39,7 @@
     as.logical()
   return(pred)
 }
+<<<<<<< HEAD
 
 #' @describeIn deepoperators
 #' @export
@@ -59,3 +60,5 @@
     as.logical()
   return(pred)
 }
+=======
+>>>>>>> master
