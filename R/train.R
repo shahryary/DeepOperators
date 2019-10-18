@@ -136,7 +136,7 @@ train_deep_not<- function(epochs = 50, batch_size = 128) {
 
 }
 
-<<<<<<< HEAD
+
 
 #' @export
 train_deep_gt<- function(epochs = 30, batch_size = 128) {
@@ -214,5 +214,4 @@ train_deep_lt<- function(epochs = 30, batch_size = 128) {
   deepoperators.env$models$lt<- model
 
 }
-=======
->>>>>>> master
+
